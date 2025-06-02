@@ -7,7 +7,8 @@ Landing page moderna e responsiva desenvolvida com **React** e **Tailwind CSS**,
 
 ## 🖼️ Demonstração
 
-> 💡 Adicione aqui o link de deploy (ex: https://lustria.vercel.app) ou uma imagem/gif da landing page funcionando.
+![Captura de Tela (47)](https://github.com/user-attachments/assets/4aa570c6-9434-40e8-b2df-529b243ee15a)
+
 
 ---
 
