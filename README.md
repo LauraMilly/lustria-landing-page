@@ -27,7 +27,7 @@ Landing page moderna e responsiva desenvolvida com **React** e **Tailwind CSS**,
 - Seção Hero com carrossel de imagens
 - Seção institucional com ícones e assinatura
 - Galeria de categorias com hover animado
-- Footer com newsletter e redes sociais
+- Footer com newsletter 
 - Layout 100% adaptado para mobile e desktop
 
 ---
