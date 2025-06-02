@@ -75,3 +75,5 @@ LinkedIn: https://www.linkedin.com/in/lauramilly/
 
 📄 Licença
 Este projeto está licenciado sob a licença MIT.
+<!-- redeploy -->
+
